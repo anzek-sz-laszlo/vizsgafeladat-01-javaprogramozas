@@ -1,0 +1,12 @@
+123456;+36(12)345678;Cég1;1;HumanEroforas;Budapest
+789012;+36(23)456789;Cég2;8;Termeles es Kereskedelem;Pécs
+345678;+36(34)567890;Cég3;8;Kereskedelem es Termeles;Debrecen
+123321;+36(12)345678;Cég4;9;Kereskedelem es Termeles es Humaneroforras;Eger
+789321;+36(23)456789;Cég5;5;Kereskedelem;Gyongyos
+345321;+36(34)567890;Cég6;4;Termelés es Humaneroforras;Balatonszemes
+456123;+36(12)345678;Cég7;1;HumanEroforas;Budapest
+012789;+36(23)456789;Cég8;8;Termeles es Kereskedelem;Sorpon
+678345;+36(34)567890;Cég9;8;Kereskedelem es Termelés;Miskolc
+321123;+36(12)345678;Cég10;3;Termelés;Kiskunhalas
+321789;+36(23)456789;Cég11;6;HumenEroforras es Kereskedelem;Ozd
+321345;+36(34)567890;Cég12;1;Humaneroforras;Nyiregyhaza
