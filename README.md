@@ -12,19 +12,19 @@ Az erre szolgáló paancs a :
 $ git checkout -b <sajat_nick>
 
 azért, hogy ne írkáljuk egymásét felül....
-azután, hogy létrehoztad a barnc-ed, és "beváltott" (ezt a "git status" mutatja meg) ki kell adnod az alábbi parancsot (a pont is kell és ott, a szóköz is!)
+azután, hogy létrehoztad a barnch-ed, és "beváltott" (ezt a "git status" mutatja meg) ki kell adnod az alábbi parancsot (a pont is kell és ott, a szóköz is!)
 
 $ git add .
 
 majd ezután dolgozhatsz és amikor megvagy, akkor 
 FONTOS! -> commitolni kell
-ha a sgit status nem a saát branched mutatja, akkor ki kell adnod:
+ha a git status nem a saját branched mutatja, akkor ki kell adnod:
     $ git checkout <sajat_nick>
     ... és az add . -is majd eztuán csak:
     
 git commit -m "mit csináltam, és miért, meg ki is vagyok és kivagyok, stb..."
 
-ezután így kell feltolnod a githubra:
+ezután így kell feltölned a githubra:
 
 $ git push -u origin <sajat_nick>
 -----------------------------------------------------------------------------------------------------
