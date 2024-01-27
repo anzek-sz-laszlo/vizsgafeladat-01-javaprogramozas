@@ -1,7 +1,7 @@
 Sziasztok.
-A január 27.-i videóban részletesn bemutatom az egyes feladatokat és a program szerkezetét illtve az elvársaimat.
-----------------------------------------------------------------------------------------------------------------
-A feladat a nyers változat.
+A január 27.-i videóban részletesen bemutattam az egyes feladatokat és a program szerkezetét illetve az elvársaimat.
+-------------------------------------------------------------------------------------------------------------------
+Ez a feladat a nyers változata.
 Hogyan  GIT -ról? 
 ez a  repó linkje (de hiszen már itt vagy, ki olvashatod onnan is): 
 "https://github.com/anzek-sz-laszlo/vizsgafeladat-01-javaprogramozas.git"
