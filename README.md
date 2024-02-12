@@ -5,7 +5,7 @@ Nincs vizsgabeadási határidő!
 Úgy tűnik nincs osztatlan sikere a vizsgának, 
 - de mint mondtam az általatok elvárt képesítést nem csupán a pénzetekért adják, (hisz a munkáltatók is számonkérnek majd minden kiadott feladatot...)
 - ezért, most nem szabok belső határidőt!
-- ki, ki tegye mag őnmaga, és tartsa magát ahhoz (felnőtt emberek vagytok).
+- ki, ki tegye mag önmaga, és tartsa magát ahhoz (felnőtt emberek vagytok).
 - aki pedig úgy érzi nem áll még készen egy teljes "projektszemléletre" annak javaslom egyelőre tegye talonba a feladatot - de ne feledkezzen meg rőla, mert az ott tanultakat nemigen ismételjük többet!
 - egyébként jelezhetitek is személyesen ha konkrétan megfogalmazható problémával szembesültetek, vagy más, akárszemléletbeli akadályok adódtak, stb. (laszlo.zoltan.szobonya@gmail.com), mert szívesen segítek privát módon is...
 
