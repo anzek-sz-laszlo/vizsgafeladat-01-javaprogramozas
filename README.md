@@ -10,6 +10,7 @@ Nincs vizsgabeadási határidő!
 - egyébként jelezhetitek is személyesen ha konkrétan megfogalmazható problémával szembesültetek, vagy más, akár pl. szemléletbeli akadályok adódtak, stb. (laszlo.zoltan.szobonya@gmail.com), mert szívesen segítek privát módon is...
 
 Fontos:
+-------
 Lesz még egy vizsgafeldat (amely az SQL/JPA-JQL illetőleg a backend-springes restfull feladat lesz), és ami most indult el, a február 10.-ei napon).
 - ez ugyan picivel komplexebb problémakör lesz, de nem terjedelmesebb feladat, és a tanfolyam vége előtt egy héttel lesz a végső beadható határidő!
 - ennek jelenlegi )január 27.-ei) feladatnak is ekkorra lesz a lehetséges legutolsó beadási határideje (addig még sokat fog javulni majd a projektszemléletetek)
