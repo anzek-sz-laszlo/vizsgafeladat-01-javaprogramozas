@@ -1,3 +1,18 @@
+Sziasztok. (február 12)
+Nics beadási határidő!
+----------------------
+Úgy tűnik nincs osztatlan sikere a vizsgának, 
+- de mint mondtam az általatok elvárt képesítést nem csupán a pénzetekért adják, (hisz a munkáltatók is számonkérnek majd minden kiadott feladatot...)
+- ezért, most nem szabok belső határidőt!
+- ki, ki tegye mag őnmaga, és tartsa magát ahhoz (felnőtt emberek vagytok).
+- aki pedig úgy érzi nem áll még készen egy teljes "projektszemléletre" annak javaslom egyelőre tegye talonba a feladatot - de ne feledkezzen meg rőla, mert az ott tanultakat nemigen isételjük többet!
+- egyébként jelezhetitek is személyesen ha konkrétan megfogalmazható problémával szembesültetek (laszlo.zoltan.szobonya@gmail.com), mert szívesen segítek privát módon is...
+Fontos:
+Lesz még egy vizsgafeldat (amely az SQL -JQL és a backend-springes restfull feladat lesz), és ami most indult el, a február 10.-ei napon).
+- ez ugyan komplexebb lesz, de nem terjedelmesebb, és a tanfolyam vége előtt egy héttel lesz a végső beadható határidő
+- ennek jelenlegi feladatnak is ekkorra lesz a lehetséges legutolsó beadási határideje (addig még sokat fog javulni majd a projektszemléletetek)
+- az utolső héten kiértékeljük a megoldásokat.  
+
 Sziasztok.
 A január 27.-i videóban részletesen bemutattam az egyes feladatokat és a program szerkezetét illetve az elvársaimat.
 -------------------------------------------------------------------------------------------------------------------
